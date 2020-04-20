@@ -1,0 +1,10 @@
+logs/
+venv/
+.DS_Store
+.idea/
+app.log
+airflow.db
+data/
+unittests.cfg
+__pycache__/*
+*.pyc
